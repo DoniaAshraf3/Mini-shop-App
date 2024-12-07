@@ -4,7 +4,7 @@ How to Run the Project To run this Flutter project on your local machine, follow
 
 Prerequisites: Flutter: Ensure that Flutter is installed on your machine. You can follow the installation guide here. Dart: Make sure you have Dart installed, which comes with Flutter. Android Studio or Visual Studio Code: For Flutter development, install one of these IDEs. Steps to Run: Clone the repository:
 
-bash git clone https://github.com/your-username/mini_shop_app.git Navigate to the project directory:
+bash git clone https://github.com/DoniaAshraf3/mini_shop_app.git Navigate to the project directory:
 
 bash cd mini_shop_app Install dependencies:
 
